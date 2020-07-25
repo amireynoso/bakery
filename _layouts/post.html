@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<article>
+  <h2>{{ page.title }}</h2>
+
+  <div class="meta">
+    <p>
+      Posted on {{ page.date | date: "%-d %B %Y" }} under {% if page.categories
+      %}🗂 {{ page.categories | join: " " }}{% endif %} {% if page.tags %} 🏷 {{
+      page.tags | join: " " }}{% endif %}
+    </p>
+  </div>
+
+  {{content}}
+</article>
