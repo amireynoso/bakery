@@ -11,3 +11,6 @@ permalink: /recipes/:categories/:title/
 sass:
   sass_dir: _sass
   style: compressed
+tag_page_layout: tag
+tag_page_dir: tags
+tag_permalink_style: pretty

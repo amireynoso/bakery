@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<h2>{{ page.tag }}</h2>
+
+<ul class="recipes">
+  {% for recipe in page.posts %}
+  <li>
+    {% include recipe-preview.html recipe=recipe %}
+  </li>
+  {% endfor %}
+</ul>
+
+<h3>Tag cloud</h3>
+
+<div class="tag-cloud">
+  {{ site | tag_cloud }}
+</div>

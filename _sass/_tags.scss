@@ -1,0 +1,21 @@
+.tag-cloud {
+  text-align: center;
+  max-width: 90%;
+  margin: 0 auto;
+  display: flex;
+  align-items: baseline;
+  flex-wrap: wrap;
+
+  a {
+    margin: 0 0.4rem;
+    white-space: nowrap;
+  }
+
+  @include highlighted-link;
+}
+
+@for $i from 1 through 5 {
+  .set-#{$i} {
+    font-size: 1.6rem * ((0.25 * $i) + 0.75);
+  }
+}
