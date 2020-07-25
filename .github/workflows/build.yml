@@ -1,4 +1,4 @@
-name: Build and Deploy to Github Pages
+name: Jekyll Deploy
 
 on:
   push:
@@ -8,23 +8,19 @@ on:
 jobs:
   build_and_deploy:
     runs-on: ubuntu-latest
-      steps:
-        - uses: actions/checkout@v2
-
-        # Use GitHub Actions' cache to cache dependencies on servers
-        - uses: actions/cache@v1
-          with:
-            path: vendor/bundle
-            key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
-            restore-keys: |
-              ${{ runner.os }}-gems-
-
-        # Use GitHub Deploy Action to build and deploy to Github
-        - uses: jeffreytse/jekyll-deploy-action@v0.1.0
-          with:
-            provider: 'github'
-            token: ${{ secrets.GH_TOKEN }}
-            repository: ''
-            branch: 'gh-pages'
-            jekyll_src: './'
-            jekyll_cfg: '_config.yml'
+    steps:
+      - name: GitHub Checkout
+        uses: actions/checkout@v1
+      - name: Bundler Cache
+        uses: actions/cache@v1
+        with:
+          path: vendor/bundle
+          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-gems-
+      - name: Build & Deploy to GitHub Pages
+        uses: joshlarsen/jekyll4-deploy-gh-pages@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ secrets.GITHUB_REPOSITORY }}
+          GITHUB_ACTOR: ${{ secrets.GITHUB_ACTOR }}
