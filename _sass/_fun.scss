@@ -1,0 +1,15 @@
+.rotating-emoji {
+  font-size: 10rem;
+
+  span {
+    display: none;
+  }
+}
+
+@for $i from 1 through 10 {
+  .theme-#{$i} {
+    .rotating-emoji span:nth-child(#{$i}) {
+      display: block;
+    }
+  }
+}

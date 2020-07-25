@@ -1,0 +1,10 @@
+<article class="recipe-preview">
+  <a href="{{recipe.url}}">
+    {% if recipe.image %}
+    <img src="/assets/images/{{recipe.image}}" alt="{{recipe.title}}" />
+    {% else %}
+    <figure><figcaption>📸</figcaption></figure>
+    {% endif %}
+    <h4>{{recipe.title}}</h4>
+  </a>
+</article>
