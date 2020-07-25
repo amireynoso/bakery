@@ -14,15 +14,19 @@
 
 $border-width: 0.6rem;
 
+@mixin border {
+  border-radius: 3px;
+  font-size: 0;
+  border: 1px solid #eee;
+  padding: $border-width;
+  display: block;
+}
+
 .recipe-preview {
   position: relative;
 
   a {
-    border-radius: 3px;
-    font-size: 0;
-    border: 1px solid #eee;
-    padding: $border-width;
-    display: block;
+    @include border;
   }
 
   img {
@@ -66,13 +70,62 @@ $border-width: 0.6rem;
 }
 
 // Post
-article {
+.recipe {
   h2 {
     margin-bottom: 0;
+  }
+
+  img {
+    max-width: 100%;
+    max-height: 45rem;
+    margin: 0 auto;
+    @include border;
+  }
+
+  // Cool list styles inspired by https://moderncss.dev/totally-custom-list-styles/
+  ol,
+  ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: grid;
+    grid-gap: 1rem;
+  }
+
+  li {
+    display: grid;
+    grid-template-columns: 0 1fr;
+    grid-gap: 2.4rem;
+    align-items: first baseline;
+  }
+
+  ul li::before {
+    content: "🟠";
+    font-size: 1.25rem;
+  }
+
+  ol {
+    counter-reset: orderedlist;
+
+    li::before {
+      counter-increment: orderedlist;
+      content: counter(orderedlist);
+      @include fancy-font;
+      font-size: 1.8rem;
+      text-align: center;
+      color: #9f5a83;
+    }
   }
 }
 
 .meta {
   font-size: 1.4rem;
   color: #757374;
+
+  a:not(:last-child) {
+    &::after {
+      content: ", ";
+      color: #757374;
+    }
+  }
 }
