@@ -96,12 +96,25 @@ $border-width: 0.6rem;
     display: grid;
     grid-template-columns: 0 1fr;
     grid-gap: 2.4rem;
-    align-items: first baseline;
+    align-items: baseline;
   }
 
-  ul li::before {
-    content: "🟠";
-    font-size: 1.25rem;
+  ul li {
+    align-items: center;
+
+    &::before {
+      content: "";
+      display: block;
+      width: 1.1rem;
+      height: 1.1rem;
+      border-radius: 50%;
+      background: rgb(243, 166, 119);
+      background: linear-gradient(
+        126deg,
+        rgba(243, 166, 119, 1) 65%,
+        rgba(247, 190, 155, 1) 100%
+      );
+    }
   }
 
   ol {
