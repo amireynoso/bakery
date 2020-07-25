@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<article>
+  <h2>{{ page.title }}</h2>
+
+  <div class="meta">
+    <p>
+      Posted on {{ page.date | date: "%-d %B %Y" }} under {% if page.categories
+      %}🗂 {{ page.categories | join: " " }}{% endif %} {% if page.tags %} 🏷
+      <a
+        href="{{ tag | slugify | prepend: site.tag_archive_path | relative_url }}"
+        title="{{ site.data.text[site.locale].pages_tagged | default: 'Pages tagged' }} {{ tag }}"
+        rel="tag"
+        >{{ tag }}</a
+      >{% endif %}
+    </p>
+  </div>
+
+  {{content}}
+</article>

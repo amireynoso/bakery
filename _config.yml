@@ -1,0 +1,13 @@
+title: Bakery
+email: amireynoso@gmail.com
+description: Recipes with love by Ami Reynoso
+url: "https://amireynoso.github.io/bakery"
+twitter_username: bakery
+github_username: amireynoso
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+permalink: /recipes/:categories/:title/
+sass:
+  sass_dir: _sass
+  style: compressed

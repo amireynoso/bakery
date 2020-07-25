@@ -1,0 +1,35 @@
+@mixin fancy-font {
+  font-family: "Bitter", serif;
+  text-transform: lowercase;
+}
+
+@mixin highlighted-background {
+  position: relative;
+  z-index: 0;
+
+  &::after {
+    content: "";
+    transform: skewX(-5deg);
+    height: 0.8rem;
+    background-color: #f7be9b;
+    width: 110%;
+    display: block;
+    position: absolute;
+    top: 65%;
+    left: -5%;
+    z-index: -1;
+  }
+}
+
+@mixin highlighted-link {
+  a {
+    color: #9f5a83;
+    text-decoration: none;
+
+    &:hover {
+      color: #724460;
+
+      @include highlighted-background;
+    }
+  }
+}
