@@ -7,14 +7,15 @@ image: featured/angel-food-cake.jpg
 
 The first time I had Angel food cake was in the summer of 2019, after my husband Seb found a Betty Crocker Angel food cake box "very appealing" in the supermarket. It certainly looked very interesting: white and airy. I was super curious to find out what it tasted like. We had never heard of this type of cake back in Argentina.
 
+![Angel food cake served with strawberries]({{ "assets/images/angel-food-cake-1.jpg" | relative_url }}){: width="800" height="600"}
+
 It was only when we got home that I learned that I needed a special tin for this cake. Luckily, I had a non-stick bundt cake pan, and after some Googling, I confirmed it could replace the original Angel food cake pan just fine.
 
 I made the cake following the box instructions (including trying to figure out how to rest the cake upside down... 🤔). Tasting time comes... I loved the cake. Seb... not so much. He didn't appreciate the almond flavoring.
 
 A couple of months later, I decided to make this cake from scratch. I found a simple enough recipe on [Tasty](https://tasty.co/recipe/angel-food-cake-in-a-springform-pan){:target="_blank"} and it turned out beautifully. Needless to say, I don't use almond extract in the homemade version.
 
-![Angel food cake served with strawberries]({{ "assets/images/angel-food-cake-1.jpg" | relative_url }})
-![Angel food cake before cutting]({{ "assets/images/angel-food-cake-2.jpg" | relative_url }})
+![Angel food cake before cutting]({{ "assets/images/angel-food-cake-2.jpg" | relative_url }}){: width="558" height="600"}
 
 ### Ingredients
 
