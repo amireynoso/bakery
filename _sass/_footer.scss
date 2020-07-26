@@ -4,4 +4,8 @@ footer {
   color: #757374;
   @include fancy-font;
   @include highlighted-link;
+
+  p:last-child {
+    margin-bottom: 0;
+  }
 }
