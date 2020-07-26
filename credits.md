@@ -6,8 +6,9 @@ permalink: /credits/
 
 ### Site
 
-* Blog built with [Jekyll](https://jekyllrb.com){:target="_blank"}
-* Hosted by [Github](https://pages.github.com){:target="_blank"}
+* Site built with [Jekyll](https://jekyllrb.com){:target="_blank"}
+* Hosted by [GitHub Pages](https://pages.github.com){:target="_blank"}
+* Source code in [GitHub](https://github.com/amireynoso/bakery){:target="_blank"}
 * Background pattern generated with [SVG Backgrounds](https://www.svgbackgrounds.com){:target="_blank"}
 
 ### Recipes
