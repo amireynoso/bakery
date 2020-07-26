@@ -94,7 +94,7 @@ $border-width: 0.6rem;
 
   li {
     display: grid;
-    grid-template-columns: 0 1fr;
+    grid-template-columns: 1fr 12fr;
     grid-gap: 2.4rem;
     align-items: baseline;
   }
