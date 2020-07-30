@@ -14,7 +14,7 @@ This is my to-do list from all the recipes I want to share. I'll be crossing the
 - [x] Apple pie
 - [ ] Banana and cheese muffins
 - [ ] Banana bread
-- [ ] Brownies
+- [x] Brownies
 - [ ] Caramel popcorn
 - [x] Carrot cake loaf
 - [ ] Citrus loaf
@@ -30,7 +30,7 @@ This is my to-do list from all the recipes I want to share. I'll be crossing the
 - [ ] Homemade dulce de leche
 - [ ] Honey oatmeal cookies
 - [x] Hot cakes
-- [ ] Lemon meringue pie
+- [x] Lemon meringue pie
 - [ ] Lemon squares
 - [ ] Pastelitos de membrillo
 - [ ] Pumpkin spice cake
