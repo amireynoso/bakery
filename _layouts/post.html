@@ -8,7 +8,7 @@ layout: default
   <div class="meta">
     <p>
       Posted on {{ page.date | date: "%-d %B %Y" }} under {% if page.categories
-      %}🗂 {{ page.categories | join: " " }}{% endif %} {% if page.tags %} 🏷 {%
+      %}🗂 {{ page.categories | join: ", " }}{% endif %} {% if page.tags %} 🏷 {%
       for tag in page.tags %}
       <a href="{{ site.baseurl }}/tags/{{ tag | slugify }}">{{ tag }}</a>
 
