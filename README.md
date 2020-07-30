@@ -32,6 +32,7 @@ This is my to-do list from all the recipes I want to share. I'll be crossing the
 - [x] Hot cakes
 - [x] Lemon meringue pie
 - [ ] Lemon squares
+- [x] Medialunas
 - [ ] Pastelitos de membrillo
 - [ ] Pumpkin spice cake
 - [ ] Strawberry mini tarts
