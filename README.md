@@ -18,7 +18,7 @@ This is my to-do list from all the recipes I want to share. I'll be crossing the
 - [ ] Caramel popcorn
 - [x] Carrot cake loaf
 - [ ] Citrus loaf
-- [ ] Cheesecake
+- [x] Cheesecake
 - [x] Chocolate chip cookies
 - [ ] Chocolate marquise
 - [ ] Chocotorta
