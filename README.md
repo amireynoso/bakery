@@ -35,7 +35,7 @@ This is my to-do list from all the recipes I want to share. I'll be crossing the
 - [x] Medialunas
 - [ ] Pastelitos de membrillo
 - [ ] Pumpkin spice cake
-- [ ] Strawberry mini tarts
+- [x] Strawberry pie
 - [ ] Tortitas negras
 
 ### Savoury
