@@ -1,9 +1,9 @@
 title: Bakery
 email: amireynoso@gmail.com
 description: Recipes with love by Ami Reynoso
-url: "https://amireynoso.github.io/bakery"
+url: "http://bakery.ar"
 repository: "amireynoso/bakery"
-baseurl: "/bakery"
+baseurl: ""
 twitter_username: bakery
 github_username: amireynoso
 plugins:
