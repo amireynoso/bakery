@@ -1,6 +1,8 @@
 # 🧁 Bakery
 
-Recipes with 💜 by Ami Reynoso. Visit at [https://amireynoso.github.io/bakery](https://amireynoso.github.io/bakery).
+![Jekyll Deploy](https://github.com/amireynoso/bakery/workflows/Jekyll%20Deploy/badge.svg)
+
+Recipes with 💜 by Ami Reynoso. Visit at [bakery.ar](http://bakery.ar).
 
 ## Recipes
 
