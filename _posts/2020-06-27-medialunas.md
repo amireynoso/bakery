@@ -3,6 +3,7 @@ title: Medialunas
 categories: [sweet, savoury]
 tags: [croissants, medialunas]
 image: featured/medialunas.jpg
+layout: post
 ---
 
 If you go to any bakery in Argentina (in Buenos Aires you'll see one every two blocks), you'll find lots of _medialunas_. They're very similar to _croissants_ in shape but the texture is slightly different. 

@@ -2,6 +2,7 @@
 title: Dulce de leche crepes
 categories: sweet
 tags: [dulce de leche, crepes]
+layout: post
 ---
 
 Dulce de leche crepes are a staple of Argentinian cuisine. Everyone loves _dulce de leche_, and what best way to eat this delicious spread but with a soft, thin, unobtrusive cake-like layer?

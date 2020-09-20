@@ -2,6 +2,7 @@
 title: Carrot cake loaf
 categories: sweet
 tags: [carrot, carrot cake, loaf]
+layout: post
 ---
 
 Earlier this year, I had ordered a veggie box that came with a lot of carrots. I made soup and roasted carrots for dinner, and I still had a bunch left over. So I decided to experiment with a carrot cake loaf!

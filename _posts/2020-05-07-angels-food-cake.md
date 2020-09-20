@@ -3,6 +3,7 @@ title: Angel food cake
 categories: sweet
 tags: [cake, berries]
 image: featured/angel-food-cake.jpg
+layout: post
 ---
 
 The first time I had Angel food cake was in the summer of 2019, after my husband Seb found a Betty Crocker Angel food cake box "very appealing" in the supermarket. It certainly looked very interesting: white and airy. I was super curious to find out what it tasted like. We had never heard of this type of cake back in Argentina.

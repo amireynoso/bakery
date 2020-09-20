@@ -3,6 +3,7 @@ title: Cheesecake
 categories: sweet
 tags: [berries, raspberries, cheese, cheesecake, cake]
 image: featured/cheesecake.jpg
+layout: post
 ---
 
 What's not to love about cheesecake? It's delicious and it's also relatively simple to make. Win-win! I love making this cheesecake for birthdays (especially my own), and it's always super successful.

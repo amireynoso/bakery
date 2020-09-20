@@ -3,6 +3,7 @@ title: Lemon meringue pie
 categories: sweet
 tags: [lemon, meringue, pie]
 image: featured/lemon-meringue-pie.jpg
+layout: post
 ---
 
 My mom used to make lemon meringue pie (or simply _Lemon Pie_, as we call it back home) all the time. My sister Mailen absolutely loves this pie, so it would always be her treat. I confess I wasn't a fan of this dessert, I used to think it was too sour for my taste.
