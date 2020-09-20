@@ -3,6 +3,7 @@ title: Cinnamon rolls
 categories: sweet
 tags: [cinnamon, rolls]
 image: featured/cinnamon-rolls.jpg
+layout: post
 ---
 
 I'd had this very intense cinnamon roll craving for a while until I decided to act on it while watching Hamilton one summer weekend. It was quite late in the afternoon and from what I knew, cinnamon rolls take a couple of hours to make. Because I was lazy _and_ hungry, I searched for the quickest cinnamon roll recipe.

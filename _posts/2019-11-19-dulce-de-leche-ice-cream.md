@@ -3,6 +3,7 @@ title: Dulce de leche ice cream
 categories: sweet
 tags: [dulce de leche, ice cream, chocolate chips]
 image: featured/dulce-de-leche-ice-cream.jpg
+layout: post
 ---
 
 In case it wasn't clear before: dulce de leche is my favourite food. And one of the things I miss most from Argentina is good quality ice cream. In Buenos Aires, you can order ice cream to be delivered to your door pretty much 24/7, all year round. You order it by the kilogram. We love our ice cream. And the best flavour in my opinion is -- you guessed it -- dulce de leche.

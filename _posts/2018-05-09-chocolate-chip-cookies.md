@@ -3,6 +3,7 @@ title: Chocolate chip cookies
 categories: sweet
 tags: [chocolate, chocolate chips, cookies]
 image: featured/chocolate-chip-cookies.jpg
+layout: post
 ---
 
 I must confess, I'm not a big chocolate fan. But there is something about good, chewy, warm chocolate chip cookies that I can't resist.
