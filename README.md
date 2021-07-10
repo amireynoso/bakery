@@ -1,6 +1,5 @@
 # 🧁 Bakery
 
-![Jekyll Deploy](https://github.com/amireynoso/bakery/workflows/Jekyll%20Deploy/badge.svg)
 
 Recipes with 💜 by Ami Reynoso. Visit at [bakery.ar](http://bakery.ar).
 
@@ -37,14 +36,17 @@ This is my to-do list from all the recipes I want to share. I'll be crossing the
 - [x] Medialunas
 - [ ] Pastelitos de membrillo
 - [ ] Pumpkin spice cake
-- [ ] Strawberry mini tarts
+- [x] Strawberry and cream tart
 - [ ] Tortitas negras
+- [ ] Sambayon ice cream
+- [ ] Mixed berries ice cream
 
 ### Savoury
 
 - [ ] Bread boat fondue
 - [ ] Empanada gallega
 - [ ] Empanadas
+- [ ] Focaccia
 - [ ] Fuggazetta
 - [ ] Onion tart
 - [ ] Tuna tart
