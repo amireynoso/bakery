@@ -10,6 +10,24 @@
     },
     "items": [
         {
+            "id": "https://bakery.ar/madeleines/",
+            "url": "https://bakery.ar/madeleines/",
+            "title": "Madeleines",
+            "summary": "I had never had madeleines before trying this recipe (which I had to make for my Cookies class), and I&hellip;",
+            "content_html": "<p>I had never had madeleines before trying this recipe (which I had to make for my Cookies class), and I must say they were a huge hit. Turns out the hump they get when baking is a good thing, even though it looks like something went wrong.</p>\n<figure class=\"post__image\" ><img loading=\"lazy\" src=\"https://bakery.ar/media/posts/17/IMG_3204.jpeg\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://bakery.ar/media/posts/17/responsive/IMG_3204-xs.jpeg 300w ,https://bakery.ar/media/posts/17/responsive/IMG_3204-sm.jpeg 480w ,https://bakery.ar/media/posts/17/responsive/IMG_3204-md.jpeg 768w\"  alt=\"\" width=\"4032\" height=\"3024\">\n<figcaption >Right out of the oven... with the hump!</figcaption>\n</figure>\n<p>There's a few gotchas with these cake-like cookies, though:</p>\n<ol>\n<li>You need a special pan</li>\n<li>The batter needs to rest overnight, so you need to make them the day before baking</li>\n<li>They have a very short shelf life</li>\n</ol>\n<p>They're worth it!</p>\n<h2>Ingredients</h2>\n<ul>\n<li>150g butter</li>\n<li>140g sugar</li>\n<li>25g honey</li>\n<li>4g salt</li>\n<li>3 large eggs</li>\n<li>zest of 1 lemon</li>\n<li>150g pastry flour</li>\n<li>4g baking powder</li>\n</ul>\n<h2>Directions</h2>\n<ol>\n<li>Melt the butter</li>\n<li>In the bowl of a standing mixer, add the sugar, eggs, honey, lemon and salt</li>\n<li>Mix on high speed with the whisk attachment until almost ribbon stage (about 5 minutes)</li>\n<li>Sift the pastry flour and the baking powder on the bowl and gently fold them in with a spatula or bowl scraper</li>\n<li>Add the melted butter and fold in gently</li>\n<li>Cover and chill the batter overnight on the fridge</li>\n<li>When ready to bake, preheat the oven to 350ºF</li>\n<li>Fill the moulds about 3/4 full (for my size of pan, I used a number 40 ice cream scoop)</li>\n<li>Bake for about 6 to 7 minutes or until golden</li>\n<li>Carefully remove them from the moulds and let them rest on a cooling rack</li>\n</ol>",
+            "image": "https://bakery.ar/media/posts/17/IMG_3207.jpeg",
+            "author": {
+                "name": "Ami Reynoso"
+            },
+            "tags": [
+                   "lemon",
+                   "cookies",
+                   "cakes"
+            ],
+            "date_published": "2021-04-03T16:10:00-04:00",
+            "date_modified": "2021-07-10T16:20:31-04:00"
+        },
+        {
             "id": "https://bakery.ar/strawberry-and-cream-tart/",
             "url": "https://bakery.ar/strawberry-and-cream-tart/",
             "title": "Strawberry and cream tart",
@@ -164,23 +182,6 @@
             ],
             "date_published": "2019-10-12T18:31:00-04:00",
             "date_modified": "2021-07-09T19:02:02-04:00"
-        },
-        {
-            "id": "https://bakery.ar/brownies/",
-            "url": "https://bakery.ar/brownies/",
-            "title": "Brownies",
-            "summary": "Brownies are so easy to make, and they always turn out delicious. Everyone loves brownies, even people who don’t love&hellip;",
-            "content_html": "<p>Brownies are so easy to make, and they always turn out delicious. Everyone loves brownies, even people who don’t love chocolate, like me! You can make them plain, or add walnuts for a crunchier result.</p>\n<h3 id=\"ingredients\">Ingredients</h3>\n<ul>\n<li>125 g butter</li>\n<li>150 g dark chocolate</li>\n<li>2 eggs</li>\n<li>3/4 cup sugar</li>\n<li>1 tsp vanilla extract</li>\n<li>1 cup all-purpose flour</li>\n<li>1/2 cup chopped walnuts</li>\n</ul>\n<h3 id=\"directions\">Directions</h3>\n<ol>\n<li>Prepare a square or rectangular pan (makes cutting easier). Grease and line the pan with parchment paper.</li>\n<li>Dice butter and chop chocolate (in case you’re not using chips). Place both in a glass bowl.</li>\n<li>Place the bowl over a saucepan with boiling water (water should not reach the top). This will act as a double boiler. Leave the bowl there until butter and chocolate melt, without mixing.</li>\n<li>In another bowl, whisk the eggs with the sugar and the vanilla extract.</li>\n<li>Once the chocolate and butter mixture has melted and cooled down, slowly incorporate the egg and sugar mixture into it while beating.</li>\n<li>Sift the flour over the batter. Incorporate it slowly with a spatula. Do not overmix.</li>\n<li>Add the chopped walnuts (or any other nut), and mix briefly.</li>\n<li>Pour the batter in the pan and take to a pre-heated, 350°F oven. Bake for 20 minutes or until batter is set when pan you shake the pan.</li>\n</ol>\n",
-            "image": "https://bakery.ar/media/posts/4/brownies.jpeg",
-            "author": {
-                "name": "Ami Reynoso"
-            },
-            "tags": [
-                   "confections",
-                   "chocolate"
-            ],
-            "date_published": "2019-07-12T18:25:00-04:00",
-            "date_modified": "2021-07-09T19:02:25-04:00"
         }
     ]
 }
