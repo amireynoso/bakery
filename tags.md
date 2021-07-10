@@ -1,9 +1,0 @@
----
-layout: page
-title: Tags
-permalink: /tags/
----
-
-<div class="tag-cloud">
-  {{ site | tag_cloud }}
-</div>
