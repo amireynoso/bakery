@@ -25,6 +25,18 @@
 </image:image>
 </url>
 <url>
+<loc>https://bakery.ar/blueberry-muffins/</loc>
+<lastmod>2021-09-05T20:29:27-04:00</lastmod>
+<image:image>
+<image:loc>https://bakery.ar/media/posts/18/IMG_4201.jpeg</image:loc>
+<image:title><![CDATA[Blueberry muffins]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://bakery.ar/media/posts/18/blueberry-muffins.jpg</image:loc>
+<image:title><![CDATA[Blueberry muffins]]></image:title>
+</image:image>
+</url>
+<url>
 <loc>https://bakery.ar/brownies/</loc>
 <lastmod>2021-07-09T19:02:25-04:00</lastmod>
 <image:image>
@@ -38,10 +50,10 @@
 </url>
 <url>
 <loc>https://bakery.ar/cheesecake/</loc>
-<lastmod>2021-07-09T19:02:42-04:00</lastmod>
+<lastmod>2021-09-05T20:44:13-04:00</lastmod>
 <image:image>
-<image:loc>https://bakery.ar/media/posts/3/cheesecake.jpeg</image:loc>
-<image:title><![CDATA[]]></image:title>
+<image:loc>https://bakery.ar/media/posts/3/cheesecake.jpg</image:loc>
+<image:title><![CDATA[Cheesecake slice]]></image:title>
 </image:image>
 </url>
 <url>
@@ -118,9 +130,6 @@
 </url>
 <url>
 <loc>https://bakery.ar/page/2/</loc>
-</url>
-<url>
-<loc>https://bakery.ar/page/3/</loc>
 </url>
 <url>
 <loc>https://bakery.ar/strawberry-and-cream-tart/</loc>

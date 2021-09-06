@@ -3,12 +3,75 @@
     <title>Bakery</title>
     <link href="https://bakery.ar/feed.xml" rel="self" />
     <link href="https://bakery.ar" />
-    <updated>2021-07-10T16:20:31-04:00</updated>
+    <updated>2021-09-05T20:29:27-04:00</updated>
     <author>
         <name>Ami Reynoso</name>
     </author>
     <id>https://bakery.ar</id>
 
+    <entry>
+        <title>Blueberry muffins</title>
+        <author>
+            <name>Ami Reynoso</name>
+        </author>
+        <link href="https://bakery.ar/blueberry-muffins/"/>
+        <id>https://bakery.ar/blueberry-muffins/</id>
+            <category term="muffins"/>
+            <category term="blueberry"/>
+
+        <updated>2021-09-05T20:29:27-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://bakery.ar/media/posts/18/IMG_4201.jpeg" alt="Blueberry muffins" />
+                    Recipe from King Arthur Baking with slight adjustments to my taste. Preheat the oven to 375°F They can be frozen,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://bakery.ar/media/posts/18/IMG_4201.jpeg" alt="Blueberry muffins" />
+                <p class="msg msg--info">Recipe from <a href="https://www.kingarthurbaking.com/recipes/famous-department-store-blueberry-muffins-recipe" target="_blank" rel="noopener">King Arthur Baking</a> with slight adjustments to my taste.</p>
+<h2><figure class="post__image"><img loading="lazy"  style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);" src="https://bakery.ar/media/posts/18/blueberry-muffins.jpg" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://bakery.ar/media/posts/18/responsive/blueberry-muffins-xs.jpg 300w ,https://bakery.ar/media/posts/18/responsive/blueberry-muffins-sm.jpg 480w ,https://bakery.ar/media/posts/18/responsive/blueberry-muffins-md.jpg 768w"  alt="Blueberry muffins" width="2928" height="2535"></figure></h2>
+<h2>Ingredients</h2>
+<ul class="list--bullets">
+<li>115g room-temperature butter</li>
+<li>200g sugar</li>
+<li>2 large eggs</li>
+<li>2 tsp baking powder</li>
+<li>1/2 tsp salt</li>
+<li>1 1/2 tsp vanilla extract</li>
+<li>240g all-purpose flour</li>
+<li>115g milk</li>
+<li>250g fresh or frozen blueberries</li>
+<li>50g sugar (for topping)</li>
+</ul>
+<h2>Directions</h2>
+<ol class="list--numbers">
+<li class="field__item">
+<p>Preheat the oven to 375°F</p>
+</li>
+<li>Prepare a muffin tin, lining it with muffin paper cups</li>
+<li>Beat together the butter and sugar until well combined in a bowl</li>
+<li>Add the eggs one at a time, and scrape the bowl after each addition</li>
+<li>Add the baking powder, salt, and vanilla</li>
+<li>Add the milk and the flour alternating them, scraping the bowl regularly:
+<ol class="list--numbers">
+<li>A third of the milk</li>
+<li>Half of the flour</li>
+<li>Half of the remaining milk</li>
+<li>The rest of the flour</li>
+<li>The rest of the milk</li>
+</ol>
+</li>
+<li>Add the blueberries and mix well</li>
+<li>Scoop the mixture on the tin using a 1/4 cup measure or #16 disher (ice-cream scoop)</li>
+<li>Sprinkle sugar on top of each muffin</li>
+<li>Bake for about 30 minutes, until light golden brown on top and a cake tester comes out clean on the center of a muffin</li>
+<li>Remove from the oven and transfer to a cooling rack after 5 minutes</li>
+</ol>
+<p class="msg msg--highlight ">They can be frozen, bake them at a 350°F oven for 5 minutes before serving</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Madeleines</title>
         <author>
@@ -561,77 +624,6 @@
 <li>Repeat this process a few times, until the consistency is ice-cream-like.</li>
 <li>Before putting in the freezer for the last time, add chocolate chips and spoonfuls of dulce de leche. Mix carefully with a spatula to integrate.</li>
 <li>Serve with an ice cream scoop. I like serving it with strawberries, more dulce de leche and wafers.</li>
-</ol>
-
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Apple pie</title>
-        <author>
-            <name>Ami Reynoso</name>
-        </author>
-        <link href="https://bakery.ar/apple-pie/"/>
-        <id>https://bakery.ar/apple-pie/</id>
-            <category term="pies"/>
-            <category term="apple"/>
-
-        <updated>2021-07-09T19:02:02-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://bakery.ar/media/posts/5/apple-pie.jpeg" alt="" />
-                    If I had to choose one favourite sweet treat, it’d probably be apple pie. My mom used to make it&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://bakery.ar/media/posts/5/apple-pie.jpeg" alt="" />
-                <p>If I had to choose one favourite sweet treat, it’d probably be apple pie. My mom used to make it for me all the time when I was a kid, and I confess I usually eat the pie all by myself.</p>
-<p>In Argentina, you can find ready-made pie dough in every supermarket. A very well known comfort food are “tartas” which are basically two (or sometimes one) disc of dough filled with whatever you can imagine. These discs of dough are very thin, flaky and delicious. <em>Tartas</em> tend to be savoury, but the same dough can be used for sweet pies, like the apple pie.</p>
-<p>When I came here, I couldn’t find this type of dough anywhere. I found some things that are only vaguely related, like puff pastry, philo pastry and pie dough (which is way thicker and heavy). I tried to make <em>tartas</em> with all of these pastries/doughs to no avail.</p>
-<p>So when it came to make apple pie (I get special cravings in the fall, who doesn’t?), I made the dough from scratch. And let me tell you it’s even better than using <em>tarta</em> dough.</p>
-<p>I tried many recipes, some using butter and some using shortening (I think I even tried lard). But the best one yet is this one from Binging with Babish. I originally tried the one in the book (which is also <a href="https://www.bingingwithbabish.com/recipes/2017/8/22/applepie">posted here</a>), but Babish <a href="https://www.youtube.com/watch?v=i7648rZpdck">posted an improved version</a> of this recipe in his YouTube channel last year and it’s much better. I modified the filling a bit to my tasting.</p>
-<p>I promised by co-workers many times to bring apple pie to the office but I never did because they never lasted that long!</p>
-<h3 id="ingredients">Ingredients</h3>
-<h4 id="pie-dough">Pie dough</h4>
-<ul>
-<li>1 1/4 cups all-purpose flour</li>
-<li>225 grams of butter, frozen</li>
-<li>1 tsp salt</li>
-<li>iced water</li>
-</ul>
-<h4 id="filling">Filling</h4>
-<ul>
-<li>5 large Granny Smith apples (approximately 1.2kg)</li>
-<li>3/4 sugar</li>
-<li>2 tbsp all-purpose flour</li>
-<li>2 tbsp lemon juice</li>
-<li>zest of 1/2 lemon</li>
-<li>1 tsp cinnamon</li>
-<li>1/2 tsp nutmeg</li>
-</ul>
-<h4 id="decoration">Decoration</h4>
-<ul>
-<li>1 egg</li>
-<li>2 tbsp sugar</li>
-</ul>
-<h3 id="directions">Directions</h3>
-<ol>
-<li>In a bowl, combine flour and salt.</li>
-<li>Using a hand-held grater, grate the frozen butter on top of the bowl, until all butter is grated.</li>
-<li>Slowly mixing with a spatula, add iced water, one tablespoon at a time, to the mixture until the dough starts to hold together. The amount of water depends on a lot of factors, so do this slowly.</li>
-<li>Transfer the dough to a clean, floured surface and start kneading gently.</li>
-<li>Form a disc with the dough and wrap it in plastic wrap. Place it in the fridge for at least 30 minutes.</li>
-<li>While the dough rest, peel the apples. Remove the core and cut them in approximately 2cm slices.</li>
-<li>Transfer the apple slices to a large bowl and incorporate the sugar, flour, lemon juice, lemon zest and spices. Mix it well and let rest.</li>
-<li>After 30 minutes, take the dough out of the fridge and divide it in two equal parts. Put one of them back in the fridge.</li>
-<li>In a floured surface, roll the dough out to a circle at least 5 cm wider than the pie plate. Using the rolling pin, carefully transfer the disc over the pie plate. Remove excess dough hanging from the sides. </li>
-<li>Place it back in the fridge while you roll out the rest of the dough into a circle.</li>
-<li>Remove pie plate from the fridge and fill with the apple filling.</li>
-<li>Cover with the second dough disc. Press the borders so the pie is tightly sealed. Cut triangles at the top (see picture) so steam can escape.</li>
-<li>Brush the top with an egg wash and sprinkle with sugar.</li>
-<li>Place pie in a 425°F oven for 35-50 minutes or until the dough looks golden brown.</li>
-<li>Rest until completely cool before serving (at least 2 hours).</li>
 </ol>
 
             ]]>
