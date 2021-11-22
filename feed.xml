@@ -3,12 +3,76 @@
     <title>Bakery</title>
     <link href="https://bakery.ar/feed.xml" rel="self" />
     <link href="https://bakery.ar" />
-    <updated>2021-09-05T20:29:27-04:00</updated>
+    <updated>2021-11-21T19:57:09-05:00</updated>
     <author>
         <name>Ami Reynoso</name>
     </author>
     <id>https://bakery.ar</id>
 
+    <entry>
+        <title>Cream cheese banana muffins</title>
+        <author>
+            <name>Ami Reynoso</name>
+        </author>
+        <link href="https://bakery.ar/cream-cheese-banana-muffins/"/>
+        <id>https://bakery.ar/cream-cheese-banana-muffins/</id>
+            <category term="muffins"/>
+            <category term="cream cheese"/>
+            <category term="banana"/>
+
+        <updated>2021-11-21T19:57:09-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://bakery.ar/media/posts/19/IMG_4275.jpeg" alt="Cream cheese filled banana muffins" />
+                    My all-time most requested muffins. I started making these in 2016 and they get better every time I make them.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://bakery.ar/media/posts/19/IMG_4275.jpeg" alt="Cream cheese filled banana muffins" />
+                <p>My all-time most requested muffins. I started making these in 2016 and they get better every time I make them. The original recipe is from <a href="https://tasty.co/recipe/cream-cheese-filled-banana-bread-muffins">Tasty</a>, but I adapted it to what I had at hand the first few times I made it (sour cream wasn't readily available in Buenos Aires back then).</p>
+<h2>Ingredients</h2>
+<h3>Banana batter</h3>
+<ul>
+<li>1 large egg</li>
+<li>100g brown sugar</li>
+<li>50g granulated sugar</li>
+<li>120g butter, melted</li>
+<li>100ml whipping cream (can be replace by 60ml sour cream)</li>
+<li>5ml vanilla extract</li>
+<li>2 ripe bananas</li>
+<li>1 tsp baking powder</li>
+<li>150g all-purpose flour</li>
+</ul>
+<h3>Cream cheese filling</h3>
+<ul>
+<li>120g cream cheese, softened</li>
+<li>1 large egg</li>
+<li>50g granulated sugar</li>
+<li>3 tbsp all-purpose flour</li>
+</ul>
+<h2>Preparation</h2>
+<ol>
+<li>Preheat the oven to 350ºF</li>
+<li>Whip the cream to stiff peaks</li>
+<li>Mix together egg, vanilla, sugars, melted butter and whipped cream</li>
+<li>Mash the bananas into the mixture</li>
+<li>Mix in the flour and baking powder</li>
+<li>Set aside</li>
+<li>In another bowl, mix the softened cream cheese, with the egg, flour and sugar</li>
+<li>Line a muffin tin and fill the muffin cups with the batters in three layers:
+<ol>
+<li>1/3 banana mix</li>
+<li>1/3 cream cheese mix</li>
+<li>1/3 banana mix</li>
+</ol>
+</li>
+<li>Sprinkle the tops with a bit of granulated sugar</li>
+<li>Bake for 25 minutes or until done</li>
+</ol>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Blueberry muffins</title>
         <author>
@@ -578,52 +642,6 @@
 <li>Pour batter into the tin.</li>
 <li>Sprinkle the top with a little of brown sugar to get a crispy crust.</li>
 <li>Bake for 35 minutes or until sticking a knife to the middle of the loaf comes out dry.</li>
-</ol>
-
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Dulce de leche ice cream</title>
-        <author>
-            <name>Ami Reynoso</name>
-        </author>
-        <link href="https://bakery.ar/dulce-de-leche-ice-cream/"/>
-        <id>https://bakery.ar/dulce-de-leche-ice-cream/</id>
-            <category term="ice cream"/>
-            <category term="dulce de leche"/>
-            <category term="chocolate"/>
-
-        <updated>2021-07-09T19:01:37-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://bakery.ar/media/posts/6/dulce-de-leche-ice-cream.jpeg" alt="" />
-                    In case it wasn’t clear before: dulce de leche is my favourite food. And one of the things I miss&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://bakery.ar/media/posts/6/dulce-de-leche-ice-cream.jpeg" alt="" />
-                <p>In case it wasn’t clear before: dulce de leche is my favourite food. And one of the things I miss most from Argentina is good quality ice cream. In Buenos Aires, you can order ice cream to be delivered to your door pretty much 24/7, all year round. You order it by the kilogram. We love our ice cream. And the best flavour in my opinion is – you guessed it – dulce de leche.</p>
-<p>You can find any ice cream flavour that you can imagine. Anything with dulce de leche in it will be in my order. I go back and forth, but one of my all-time favourites is <em>super dulce de leche granizado</em>, which basically is a dulce de leche cream, with chocolate chips and natural dulce de leche swirls.</p>
-<p>Making ice cream at home is not an easy feat. You typically need the fancy ice cream machines to get decent ice cream. I came across <a href="https://www.paulinacocina.net/helado-de-dulce-de-leche-casero/8679">this recipe by Paulina Cocina</a> (she’s a great home cook) and it seemed too simple to be true. I set out to try it and the results are really good. It’s nothing like you’d find in a Buenos Aires <em>heladería</em>, but it’s pretty decent. The only reason why I don’t make this every weekend is that it takes over a day to get it done. I usually need to start making it very early on a Saturday to enjoy it on Sunday. But it’s worth it!</p>
-<h3 id="ingredients">Ingredients</h3>
-<ul>
-<li>500 g dulce de leche</li>
-<li>250 ml heavy cream</li>
-<li>250 ml milk</li>
-<li>chocolate chips (optional)</li>
-<li>more dulce de leche for the swirls (optional)</li>
-</ul>
-<h3 id="directions">Directions</h3>
-<ol>
-<li>In a standing mixer, beat the dulce de leche with the heavy cream until smooth.</li>
-<li>Add milk and beat a little longer, until well combined.</li>
-<li>Cover the bowl with plastic wrap and place in the freezer for 2 to 3 hours.</li>
-<li>After 2-3 hours, remove bowl from freezer and beat again for a bit, until it creamy. Take back to the freezer.</li>
-<li>Repeat this process a few times, until the consistency is ice-cream-like.</li>
-<li>Before putting in the freezer for the last time, add chocolate chips and spoonfuls of dulce de leche. Mix carefully with a spatula to integrate.</li>
-<li>Serve with an ice cream scoop. I like serving it with strawberries, more dulce de leche and wafers.</li>
 </ol>
 
             ]]>
