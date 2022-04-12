@@ -3,12 +3,168 @@
     <title>Bakery</title>
     <link href="https://bakery.ar/feed.xml" rel="self" />
     <link href="https://bakery.ar" />
-    <updated>2021-11-21T19:59:11-05:00</updated>
+    <updated>2022-04-12T16:46:38-04:00</updated>
     <author>
         <name>Ami Reynoso</name>
     </author>
     <id>https://bakery.ar</id>
 
+    <entry>
+        <title>Banana pancakes</title>
+        <author>
+            <name>Ami Reynoso</name>
+        </author>
+        <link href="https://bakery.ar/banana-pancakes/"/>
+        <id>https://bakery.ar/banana-pancakes/</id>
+            <category term="pancakes"/>
+            <category term="banana"/>
+
+        <updated>2022-04-12T16:40:54-04:00</updated>
+            <summary>
+                <![CDATA[
+                    Whenever I have bananas past its prime on my counter, I make pancakes. This is one of my favourite recipes,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Whenever I have bananas past its prime on my counter, I make pancakes. This is one of my favourite recipes, from <a href="https://www.kitchentreaty.com/fluffy-banana-pancakes/" target="_blank" rel="noopener">Kitchen Treaty</a>.</p>
+<h2>Ingredients</h2>
+<ul class="wprm-recipe-ingredients">
+<li class="wprm-recipe-ingredient">480 g <em>(2 cups)</em> <span class="wprm-recipe-ingredient-name">buttermilk</span></li>
+<li class="wprm-recipe-ingredient"><span class="wprm-recipe-ingredient-name">2 ripe bananas</span></li>
+<li class="wprm-recipe-ingredient"><span class="wprm-recipe-ingredient-amount">2</span> <span class="wprm-recipe-ingredient-name">eggs</span></li>
+<li class="wprm-recipe-ingredient"><span class="wprm-recipe-ingredient-amount">45 g <em>(3</em></span><em> <span class="wprm-recipe-ingredient-unit">tbsp)</span></em> <span class="wprm-recipe-ingredient-name">unsalted butter, melted</span></li>
+<li class="wprm-recipe-ingredient"><span class="wprm-recipe-ingredient-amount">10 g <em>(2</em></span><em> <span class="wprm-recipe-ingredient-unit">tsp)</span></em> <span class="wprm-recipe-ingredient-name">vanilla extract</span></li>
+<li class="wprm-recipe-ingredient"><span class="wprm-recipe-ingredient-amount">315g <em>(2 1/2</em></span><em> <span class="wprm-recipe-ingredient-unit">cups)</span></em> <span class="wprm-recipe-ingredient-name">all-purpose flour</span></li>
+<li class="wprm-recipe-ingredient"><span class="wprm-recipe-ingredient-amount">50 g <em>(1/4</em></span><em> <span class="wprm-recipe-ingredient-unit">cup)</span></em><span class="wprm-recipe-ingredient-name"> sugar</span></li>
+<li class="wprm-recipe-ingredient"><span class="wprm-recipe-ingredient-amount">15 g <em>(1</em></span><em> <span class="wprm-recipe-ingredient-unit">tbsp)</span></em> <span class="wprm-recipe-ingredient-name">baking powder</span></li>
+<li class="wprm-recipe-ingredient"><span class="wprm-recipe-ingredient-amount">5 g <em>(1/2</em></span><em> <span class="wprm-recipe-ingredient-unit">tsp)</span></em> <span class="wprm-recipe-ingredient-name">baking soda</span></li>
+<li class="wprm-recipe-ingredient"><span class="wprm-recipe-ingredient-amount">3 g <em>(1/2</em></span><em> <span class="wprm-recipe-ingredient-unit">tsp)</span></em> <span class="wprm-recipe-ingredient-name">salt</span></li>
+</ul>
+<h2>Preparation</h2>
+<ol>
+<li class="wprm-recipe-instruction-text">Mash the bananas in a bowl. Add the buttermilk, and whisk in the eggs, butter and vanilla extract.</li>
+<li><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Add the the flour, sugar, baking powder, baking soda, and salt. Mix until just combined.</span></li>
+<li>Let the batter rest for about 5 minutes. It should form bubbles and rise just a bit.</li>
+<li>Heat a non-stick frying pan over medium heat. </li>
+<li>Using a 1/4 cup measure or a number 16 scoop, pour the batter onto the pan.</li>
+<li>Flip the pancakes when they look a little dry around the edges and start to form little bubbles (about a minute). Cook them on the other side until golden brown and the cooked through.</li>
+</ol>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Red velvet cake with cream cheese frosting</title>
+        <author>
+            <name>Ami Reynoso</name>
+        </author>
+        <link href="https://bakery.ar/red-velvet-cake/"/>
+        <id>https://bakery.ar/red-velvet-cake/</id>
+            <category term="cakes"/>
+
+        <updated>2022-04-12T16:46:38-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://bakery.ar/media/posts/22/IMG_5397.jpeg" alt="Slice of red velvet cake" />
+                    Yields 1 two-layer 8-inch or 9-inch cake (or 25 cupcakes) Ingredients Cake 315g all-purpose flour 300g granulated sugar 227g buttermilk&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://bakery.ar/media/posts/22/IMG_5397.jpeg" alt="Slice of red velvet cake" />
+                <p><span style="font-weight: 400;">Yields 1 two-layer 8-inch or 9-inch cake (or 25 cupcakes)</span></p>
+<h2><strong>Ingredients</strong></h2>
+<h3><strong>Cake</strong></h3>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">315g all-purpose flour</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">300g granulated sugar</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">227g buttermilk</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">170g unsalted butter, softened</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">2 large eggs</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">15g white vinegar</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">15g natural cocoa powder</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">30g liquid red food colouring</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">8g baking soda</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">5g vanilla extract</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Pinch of salt</span></li>
+</ul>
+<h3><strong>Frosting</strong></h3>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">170g butter, at room temperature</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">340g cream cheese, at room temperature</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">450g icing sugar</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">2 tsp vanilla extract</span></li>
+</ul>
+<h2><strong>Preparation</strong></h2>
+<h3><strong>Cake</strong></h3>
+<ol>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Adjust oven rack to middle position and heat oven to 350ºF. Line the bottom of the pans with parchment paper, or grease and flour them.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Sift or whisk together the flour, baking soda and salt in a bowl. Set aside.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">In another bowl whisk together the buttermilk with the vinegar eggs and vanilla extract. Set aside.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">In a standing mixer or using a hand mixer, beat the butter and sugar until fluffy, about 2 minutes or longer. Scrape down the bowl as necessary.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Add ⅓ of the flour mixture and mix on medium-low speed until just incorporated.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Add ½ of the buttermilk mixture and beat on low speed until combined, about 30 seconds.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Scrape down the bowl as necessary and repeat with ½ of the remaining flour mixture, the remaining buttermilk mixture, and finally the remaining flour mixture.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Scrape down the bowl, add the cocoa powder and the food colouring. Beat on medium speed until completely incorporated, about 30 seconds.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Using a rubber spatula, give the batter a final stir. Scrape into prepared pans. </span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Bake until a toothpick inserted in the center comes out clean, about 25 minutes.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Cool the cakes in the pans for 10 minutes then turn out onto a rack to cool completely, at least 30 minutes.</span></li>
+</ol>
+<h4><strong>Notes</strong></h4>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">If only one pan is available, either:</span>
+<ul>
+<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Bake it all at once (ensure the pan is deep enough to contain all the batter and not be over  ⅔ full), or</span></li>
+<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Bake it in two batches, dividing the mixture in half and reserving the remaining batter in the fridge while the first pan is in the oven. Ensure to reline or grease the cooled pan before baking the second one.</span></li>
+</ul>
+</li>
+</ul>
+<h3><strong>Frosting</strong></h3>
+<ol>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Beat the cream cheese and butter on high until creamy</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Add vanilla. Then, add the sugar in batches. Scrape down the sides of the bowl in between each addition. Beat on medium-high until light and fluffy.</span></li>
+</ol>
+<h3><strong>Assembly</strong></h3>
+<ol>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">If the layers have a dome on top, cut it out with a long serrated knife (bread knife) or a cake leveler. If starting from a single layer cake, divide it into two layers of approximately the same height. Keep the crumbs to decorate.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Reserve the flattest layer (usually the bottom) for the top.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Place the bottom layer on a cake plate and add a generous amount of frosting. Spread it over the layer with an offset spatula.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Stack the top layer on top.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Add more frosting on top and with an offset or straight spatula, spread it from the center to the edges.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Mask the sides of the cake with the remaining frosting.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Decorate the sides and/or top with crumbs.</span></li>
+</ol>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Melitas</title>
+        <author>
+            <name>Ami Reynoso</name>
+        </author>
+        <link href="https://bakery.ar/melitas/"/>
+        <id>https://bakery.ar/melitas/</id>
+            <category term="honey"/>
+            <category term="cookies"/>
+
+        <updated>2022-04-12T16:25:05-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://bakery.ar/media/posts/20/IMG_5123.jpeg" alt="Six melitas cookies on a plate" />
+                    Melitas are very popular honey cookies from Argentina. I couldn't find anything similar in Canada, so I started making them&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://bakery.ar/media/posts/20/IMG_5123.jpeg" alt="Six melitas cookies on a plate" />
+                <p>Melitas are very popular honey cookies from Argentina. I couldn't find anything similar in Canada, so I started making them myself. I started off with <a href="https://matiaschavero.com/2020/12/03/galletas-de-miel/" target="_blank" rel="noopener noreferrer">Matias Chavero's recipe</a> and adapted it slightly to my tasting. They are, dare I say, even better than the original cookies.</p>
+<p>This recipe yields about 20 cookies, and they freeze beautifully.</p>
+<h2>Ingredients</h2>
+<h2>Preparation</h2>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Cream cheese banana muffins</title>
         <author>
@@ -451,197 +607,6 @@
 <li>Remove the cake from the oven and invert immediately. </li>
 <li>Let it cool for at least 45 minutes before removing the cake from the pan. To remove, run a spatula (or something soft as to not ruin the non-stick surface of the pan) along the outer edge of the pan.</li>
 <li>Serve with berries!</li>
-</ol>
-
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Lemon meringue pie</title>
-        <author>
-            <name>Ami Reynoso</name>
-        </author>
-        <link href="https://bakery.ar/lemon-meringue-pie/"/>
-        <id>https://bakery.ar/lemon-meringue-pie/</id>
-            <category term="pies"/>
-            <category term="meringue"/>
-            <category term="lemon"/>
-
-        <updated>2021-07-09T19:01:16-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://bakery.ar/media/posts/9/lemon-meringue-pie.jpeg" alt="" />
-                    My mom used to make lemon meringue pie (or simply Lemon Pie, as we call it back home) all the&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://bakery.ar/media/posts/9/lemon-meringue-pie.jpeg" alt="" />
-                <p>My mom used to make lemon meringue pie (or simply <em>Lemon Pie</em>, as we call it back home) all the time. My sister Mailen absolutely loves this pie, so it would always be her treat. I confess I wasn’t a fan of this dessert, I used to think it was too sour for my taste.</p>
-<p>As I got older, I started to appreciate this delicacy more and more. Nowadays, I could kill for a slice of lemon meringue pie.</p>
-<p>I tried many, many recipes and not all attempts were successful. I tried different ways to make the filling, and in one of these attempts I came across condensed milk, and oh my. How have I lived so long without trying condensed milk?</p>
-<p>But my biggest problem always was the meringue. I tried French meringue first, because that’s how my mom does it, but it always ended up too fluffy for me and it lost its consistency if you didn’t eat it right away. I then moved on to Italian meringue and let me tell you: I hate this technique. I always messed it up – I either burnt the caramel (or it didn’t turn out syrup-y), or I burnt the egg whites. When it did come out right, the meringue over the pie would start to sweat after a day in the fridge. Not good.</p>
-<p>That is, until I tried making a Swiss meringue. The technique detailed here is not the textbook recipe, but it’s much simpler and most importantly, it works! The only gotcha is that it doesn’t last soft and creamy for too long, so the pie needs to be consumed in the first 1-3 days. Like that’s a problem…</p>
-<p><a href="https://www.youtube.com/watch?v=3a8_KIECzBI">This recipe</a> comes from a TV show from Argentina, called <em>Cocineros Argentinos</em>. I watched it on YouTube. It’s long but really good. I couldn’t find the textual recipe in their website, though.</p>
-<h3 id="ingredients">Ingredients</h3>
-<h4 id="pie-dough">Pie dough</h4>
-<ul>
-<li>100g powdered sugar</li>
-<li>200g room-temperature butter</li>
-<li>300g all-purpose flour</li>
-<li>1 egg</li>
-<li>pinch of salt</li>
-<li>1/2 lemon zest</li>
-</ul>
-<h4 id="filling">Filling</h4>
-<ul>
-<li>500ml milk</li>
-<li>200g sugar</li>
-<li>60g cornstarch</li>
-<li>4 egg yolks</li>
-<li>200ml lemon juice</li>
-<li>1/2 lemon zest</li>
-</ul>
-<h4 id="meringue">Meringue</h4>
-<ul>
-<li>4 egg whites</li>
-<li>240g sugar</li>
-</ul>
-<h3 id="directions">Directions</h3>
-<ol>
-<li>Mix the butter with a spatula until soft. Add the powdered sugar slowly. Once incorporated, start mixing with an electric mixer.</li>
-<li>When the consistency becomes creamy and the colour lightens, add the egg and keep mixing.</li>
-<li>Add the flour and salt, and mix with a spatula until a firm dough forms. Do not overmix.</li>
-<li>Form a circle with the dough and cover with plastic wrap. Take to the fridge to rest for at least 30 minutes.</li>
-<li>Once chilled, roll the dough in a floured surface until circle covers pie dish, or an approximate height of 1 cm.</li>
-<li>Cover the pie dish and press against the side. Cut the excess dough. Tap base with a fork.</li>
-<li>Cover the dish and dough with aluminium foil and press. Add baking weights.</li>
-<li>Take to a pre-heated 350°F oven for about 15 minutes. After that time, remove the weights and foil, and cook for 5 more minutes.</li>
-<li>While the dough bakes, start the filling. In a bowl beat the egg yolks with the sugar and cornstarch. Add the lemon juice and the zest.</li>
-<li>Bring the milk to a boil in a saucepan. Remove from heat and add about 1/4 of the milk into the yolks and sugar mixture. Mix to bring the temperature down.</li>
-<li>Put the sauce pan back in the heat until it boils again. Once it does, slowly add the other mixture into the saucepan, mixing constantly. Keep beating until consistency thickens. Once it starts to boil, keep mixing for 1 more minute and then remove from the heat.</li>
-<li>Transfer the filling into a bowl and cover with plastic wrap. Ensure the wrap touches the filling to avoid it from developing a hard film on the top. Chill it in the fridge.</li>
-<li>Once chilled, fill the cooked pie dough and leave it to rest.</li>
-<li>To make the meringue, add the egg whites and sugar into a microwave-safe bowl (or the bowl of a standing mixer is it’s glass). Mix to incorporate.</li>
-<li>Cook it on the microwave for 30 seconds. Take it out and mix it again with a whisk to prevent the egg whites from cooking. Do this process 5 times (1 time more than the amount of egg whites).</li>
-<li>Once the last round is done, transfer to the bowl of a standing mixer (if you didn’t do it in there) and beat on medium-high speed until stiff peaks form, about 8 minutes.</li>
-<li>Decorate the pie with the meringue. You can use a piping bag or just put a layer of meringue on top.</li>
-<li>Turn the oven on, using the lowest broil setting. Place the pie in the oven and keep an eye on it. Broil only until the top darkens, about 1-2 minutes.</li>
-</ol>
-
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Hot cakes</title>
-        <author>
-            <name>Ami Reynoso</name>
-        </author>
-        <link href="https://bakery.ar/hot-cakes/"/>
-        <id>https://bakery.ar/hot-cakes/</id>
-            <category term="pancakes"/>
-            <category term="dulce de leche"/>
-
-        <updated>2021-07-09T19:01:51-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://bakery.ar/media/posts/8/hot-cakes.jpeg" alt="" />
-                    Back in Argentina, we don’t really make pancakes or hot cakes as they’re commonly known in North America. Instead, we&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://bakery.ar/media/posts/8/hot-cakes.jpeg" alt="" />
-                <p>Back in Argentina, we don’t really make pancakes or hot cakes as they’re commonly known in North America. Instead, we make crepes (which we call “panqueques”, as in <em>pancakes</em>) with lots and lots of dulce de leche (check out <a href="https://bakery.ar/dulce-de-leche-crepes/">my dulce de leche crepes recipe</a>).</p>
-<p>My mom sent me this recipe to try not long ago and I was hooked because it’s so easy to make and they’re super delicious. They do not rise as much as regular pancakes, but they’re still amazing.</p>
-<h3 id="ingredients">Ingredients</h3>
-<ul>
-<li>1 cup all-purpose flour</li>
-<li>1 cup milk</li>
-<li>1 egg</li>
-<li>1 tbsp sugar</li>
-<li>1 tsp baking powder</li>
-<li>pinch of salt</li>
-<li>butter</li>
-</ul>
-<h3 id="directions">Directions</h3>
-<ol>
-<li>Mix all ingredients together until you get a thick and homogenous batter (I usually do this in a big measuring cup).</li>
-<li>Chill in fridge for at least 30 minutes.</li>
-<li>Brush a pancake pan pre-heated in medium heat with butter.</li>
-<li>Pour about 1/4 cup batter from measuring cup in the pan, forming a circle of about 6cm in diameter. Do not move the pan!</li>
-<li>Flip when bubbles form in the surface, about after a minute and a half.</li>
-<li>Leave for one more minute so the other side cooks.</li>
-<li>Serve hot! I like serving them with dulce de leche.</li>
-</ol>
-
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Carrot cake loaf</title>
-        <author>
-            <name>Ami Reynoso</name>
-        </author>
-        <link href="https://bakery.ar/carrot-cake-loaf/"/>
-        <id>https://bakery.ar/carrot-cake-loaf/</id>
-            <category term="loaves"/>
-            <category term="carrot"/>
-            <category term="cakes"/>
-
-        <updated>2021-07-09T18:56:57-04:00</updated>
-            <summary>
-                <![CDATA[
-                    Earlier this year, I had ordered a veggie box that came with a lot of carrots. I made soup and&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Earlier this year, I had ordered a veggie box that came with a lot of carrots. I made soup and roasted carrots for dinner, and I still had a bunch left over. So I decided to experiment with a carrot cake loaf!</p>
-<p>I love making loafs, they’re so simple and versatile and they last me many breakfasts. They’re also very convenient to freeze since once it’s sliced, it doesn’t take up a lot of space. I always have a loaf in the freezer because it’s easy peasy to take out some slices, pop them in the microwave for a minute and have a breakfast (or a <em>merienda</em>) ready in no time!</p>
-<p>I based this loaf in a recipe that I found on an healthy food Instagram account (I can’t remember which one), and as I was baking it, I adapted it to what I had in my pantry. It turned out great and my co-workers loved it!</p>
-<p>I made it so late one weeknight that I completely forgot to take a picture of it, oopsies.</p>
-<h3 id="ingredients">Ingredients</h3>
-<ul>
-<li>2 carrots</li>
-<li>1 banana</li>
-<li>3 eggs</li>
-<li>1/4 cup skim milk</li>
-<li>1/2 cup brown sugar, plus extra to sprinkle</li>
-<li>1 teaspoon vanilla extract</li>
-<li>1 cup steel cut oats</li>
-<li>1/2 cup whole wheat flour</li>
-<li>1/2 cup all purpose flour</li>
-<li>1 teaspoon baking powder</li>
-<li>1 teaspoon baking soda</li>
-<li>1 teaspoon nutmeg</li>
-<li>1 teaspoon cinnamon</li>
-<li>pinch of salt</li>
-<li>walnuts to taste</li>
-</ul>
-<h3 id="directions">Directions</h3>
-<h4 id="before-you-start-make-sure-to">Before you start, make sure to…</h4>
-<ol>
-<li>Line a loaf tin with parchment paper.</li>
-<li>Preheat the oven to 350°F.</li>
-</ol>
-<h4 id="prepare-your-ingredients">Prepare your ingredients</h4>
-<ol>
-<li>Chop the walnuts to desired size (you can do this with a food processor).</li>
-<li>Peel and shred the carrots.</li>
-<li>Mash the banana with a fork.</li>
-<li>Process the steel cut oats in a food processor until it’s similar to flour (not too fine).</li>
-<li>Mix the dry ingredients (flours, spices, salt, baking powder and soda) and reserve.</li>
-</ol>
-<h4 id="ready-get-set-bake">Ready, get set, bake!</h4>
-<ol>
-<li>Whisk the eggs in a bowl for a couple of minutes.</li>
-<li>Mix in the banana, sugar, milk, and vanilla extract and keep whisking.</li>
-<li>Slowly integrate the dry ingredients while still whisking.</li>
-<li>At last, integrate the carrots and walnuts with a spatula.</li>
-<li>Pour batter into the tin.</li>
-<li>Sprinkle the top with a little of brown sugar to get a crispy crust.</li>
-<li>Bake for 35 minutes or until sticking a knife to the middle of the loaf comes out dry.</li>
 </ol>
 
             ]]>
