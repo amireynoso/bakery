@@ -1,14 +1,65 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Bakery</title>
     <link href="https://bakery.ar/feed.xml" rel="self" />
     <link href="https://bakery.ar" />
-    <updated>2022-04-12T16:46:38-04:00</updated>
+    <updated>2023-06-20T21:04:59-07:00</updated>
     <author>
         <name>Ami Reynoso</name>
     </author>
     <id>https://bakery.ar</id>
 
+    <entry>
+        <title>Melitas</title>
+        <author>
+            <name>Ami Reynoso</name>
+        </author>
+        <link href="https://bakery.ar/melitas/"/>
+        <id>https://bakery.ar/melitas/</id>
+        <media:content url="https://bakery.ar/media/posts/20/IMG_5123.jpeg" medium="image" />
+            <category term="honey"/>
+            <category term="cookies"/>
+
+        <updated>2023-06-20T21:03:52-07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://bakery.ar/media/posts/20/IMG_5123.jpeg" alt="Six melitas cookies on a plate" />
+                    Melitas are very popular honey cookies from Argentina. I couldn't find anything similar in Canada, so I started making them&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://bakery.ar/media/posts/20/IMG_5123.jpeg" class="type:primaryImage" alt="Six melitas cookies on a plate" /></p>
+                <p>Melitas are very popular honey cookies from Argentina. I couldn't find anything similar in Canada, so I started making them myself. I started off with <a href="https://matiaschavero.com/2020/12/03/galletas-de-miel/" target="_blank" rel="noopener noreferrer">Matias Chavero's recipe</a> and after many batches and many small tweaks, I found the perfect balance to make them to my tasting. They are, dare I say, even better than the original cookies. I love dunking them on tea!</p>
+<p>This recipe yields about 20 cookies, and they can be frozen either before or after baking. They keep really well for about a week in an airtight container.</p>
+<h2>Ingredients</h2>
+<ul>
+<li>135 g <em>(⅔ cup + 1 tbsp)</em> neutral flavour vegetable oil (I use sunflower seed oil)</li>
+<li>175 g <em>(1 cup, packed)</em> brown sugar (either dark, light or a combination of both works)</li>
+<li>10 g (2 tsp) granulated sugar</li>
+<li>1 egg</li>
+<li>70 g <em>(¼ cup)</em> honey</li>
+<li>230 g <em>(1 ⅓ cup)</em> all-purpose flour</li>
+<li>5 g <em>(1 tsp)</em> baking soda</li>
+<li>2 g <em>(½ tsp)</em> salt</li>
+<li>5 g <em>(1 tsp)</em> vanilla extract</li>
+<li>About ¼ cup granulated sugar to decorate</li>
+</ul>
+<h2>Preparation</h2>
+<ol>
+<li>Preheat oven to 360ºF</li>
+<li>Line a couple baking sheets with parchment paper or silicone baking mats (alternatively, bake them in batches using the same baking sheet).</li>
+<li>In a ramekin, or a small bowl (preferably with tall sides), add a few tablespoons of granulated sugar, and set aside.</li>
+<li>In a big bowl, mix together the sugars, honey, oil, egg and vanilla with a rubber spatula. Ensure everything is well mixed before proceeding, the mix should emulsify (it will lighten in colour and look uniform). Break any big brown sugar lumps.</li>
+<li>Sift in the flour, salt and baking soda. Mix until just incorporated.</li>
+<li>With a small ice cream scoop or a table spoon, scoop some of the dough <em>(I use a <a href="https://www.chefs-resources.com/culinary-conversions-calculators-and-capacities/scoop-disher-sizes/">#40 disher scoop</a>, which is roughly 1.5 tbsp)</em>. Scoop it out on the ramekin or bowl with sugar. Toss the dough ball in the ramekin to get it fully covered in sugar <em>(I like to move the ramekin in circular motion and have the ball hit the sides)</em>. Carefully lace the ball in the baking sheet.</li>
+<li>Repeat with all the remaining dough. Make sure to space them out because they will expand as they bake. If baking in multiple batches, rest the bowl in the fridge while a batch is baking and don't shape them until ready to place them in the sheet (otherwise they will flatten quickly).</li>
+<li>Bake for about 12 minutes or until golden brown and slightly cracked on top. They will be soft right out of the over and will harden as they cool.</li>
+</ol>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Banana pancakes</title>
         <author>
@@ -19,15 +70,15 @@
             <category term="pancakes"/>
             <category term="banana"/>
 
-        <updated>2022-04-12T16:40:54-04:00</updated>
+        <updated>2023-06-20T21:04:59-07:00</updated>
             <summary>
                 <![CDATA[
-                    Whenever I have bananas past its prime on my counter, I make pancakes. This is one of my favourite recipes,&hellip;
+                    Whenever I have bananas past their prime on my counter, I make pancakes. This is one of my favourite recipes,&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Whenever I have bananas past its prime on my counter, I make pancakes. This is one of my favourite recipes, from <a href="https://www.kitchentreaty.com/fluffy-banana-pancakes/" target="_blank" rel="noopener">Kitchen Treaty</a>.</p>
+                <p>Whenever I have bananas past their prime on my counter, I make pancakes. This is one of my favourite recipes, from <a href="https://www.kitchentreaty.com/fluffy-banana-pancakes/" target="_blank" rel="noopener">Kitchen Treaty</a>.</p>
 <h2>Ingredients</h2>
 <ul class="wprm-recipe-ingredients">
 <li class="wprm-recipe-ingredient">480 g <em>(2 cups)</em> <span class="wprm-recipe-ingredient-name">buttermilk</span></li>
@@ -60,9 +111,10 @@
         </author>
         <link href="https://bakery.ar/red-velvet-cake/"/>
         <id>https://bakery.ar/red-velvet-cake/</id>
+        <media:content url="https://bakery.ar/media/posts/22/IMG_5397.jpeg" medium="image" />
             <category term="cakes"/>
 
-        <updated>2022-04-12T16:46:38-04:00</updated>
+        <updated>2022-04-12T13:46:38-07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://bakery.ar/media/posts/22/IMG_5397.jpeg" alt="Slice of red velvet cake" />
@@ -71,7 +123,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://bakery.ar/media/posts/22/IMG_5397.jpeg" alt="Slice of red velvet cake" />
+                    <p><img src="https://bakery.ar/media/posts/22/IMG_5397.jpeg" class="type:primaryImage" alt="Slice of red velvet cake" /></p>
                 <p><span style="font-weight: 400;">Yields 1 two-layer 8-inch or 9-inch cake (or 25 cupcakes)</span></p>
 <h2><strong>Ingredients</strong></h2>
 <h3><strong>Cake</strong></h3>
@@ -144,11 +196,12 @@
         </author>
         <link href="https://bakery.ar/cream-cheese-banana-muffins/"/>
         <id>https://bakery.ar/cream-cheese-banana-muffins/</id>
+        <media:content url="https://bakery.ar/media/posts/19/IMG_4275.jpeg" medium="image" />
             <category term="muffins"/>
             <category term="cream cheese"/>
             <category term="banana"/>
 
-        <updated>2021-11-21T19:59:11-05:00</updated>
+        <updated>2021-11-21T16:59:11-08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://bakery.ar/media/posts/19/IMG_4275.jpeg" alt="Cream cheese filled banana muffins" />
@@ -157,7 +210,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://bakery.ar/media/posts/19/IMG_4275.jpeg" alt="Cream cheese filled banana muffins" />
+                    <p><img src="https://bakery.ar/media/posts/19/IMG_4275.jpeg" class="type:primaryImage" alt="Cream cheese filled banana muffins" /></p>
                 <p>My all-time most requested muffins. I started making these in 2016 and they get better every time I make them. The original recipe is from <a href="https://tasty.co/recipe/cream-cheese-filled-banana-bread-muffins">Tasty</a>, but I adapted it to what I had at hand the first few times I made it (sour cream wasn't readily available in Buenos Aires back then).</p>
 <h2>Ingredients</h2>
 <h3>Banana batter</h3>
@@ -208,10 +261,11 @@
         </author>
         <link href="https://bakery.ar/blueberry-muffins/"/>
         <id>https://bakery.ar/blueberry-muffins/</id>
+        <media:content url="https://bakery.ar/media/posts/18/IMG_4201.jpeg" medium="image" />
             <category term="muffins"/>
             <category term="blueberry"/>
 
-        <updated>2021-09-05T20:29:27-04:00</updated>
+        <updated>2021-09-05T17:29:27-07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://bakery.ar/media/posts/18/IMG_4201.jpeg" alt="Blueberry muffins" />
@@ -220,9 +274,9 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://bakery.ar/media/posts/18/IMG_4201.jpeg" alt="Blueberry muffins" />
+                    <p><img src="https://bakery.ar/media/posts/18/IMG_4201.jpeg" class="type:primaryImage" alt="Blueberry muffins" /></p>
                 <p class="msg msg--info">Recipe from <a href="https://www.kingarthurbaking.com/recipes/famous-department-store-blueberry-muffins-recipe" target="_blank" rel="noopener">King Arthur Baking</a> with slight adjustments to my taste.</p>
-<h2><figure class="post__image"><img loading="lazy"  style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);" src="https://bakery.ar/media/posts/18/blueberry-muffins.jpg" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://bakery.ar/media/posts/18/responsive/blueberry-muffins-xs.jpg 300w ,https://bakery.ar/media/posts/18/responsive/blueberry-muffins-sm.jpg 480w ,https://bakery.ar/media/posts/18/responsive/blueberry-muffins-md.jpg 768w"  alt="Blueberry muffins" width="2928" height="2535"></figure></h2>
+<h2><figure class="post__image"><img loading="lazy"  style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);" src="https://bakery.ar/media/posts/18/blueberry-muffins.jpg" alt="Blueberry muffins" width="2928" height="2535" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://bakery.ar/media/posts/18/responsive/blueberry-muffins-xs.jpg 300w ,https://bakery.ar/media/posts/18/responsive/blueberry-muffins-sm.jpg 480w ,https://bakery.ar/media/posts/18/responsive/blueberry-muffins-md.jpg 768w"></figure></h2>
 <h2>Ingredients</h2>
 <ul class="list--bullets">
 <li>115g room-temperature butter</li>
@@ -271,11 +325,12 @@
         </author>
         <link href="https://bakery.ar/madeleines/"/>
         <id>https://bakery.ar/madeleines/</id>
+        <media:content url="https://bakery.ar/media/posts/17/IMG_3207.jpeg" medium="image" />
             <category term="lemon"/>
             <category term="cookies"/>
             <category term="cakes"/>
 
-        <updated>2021-07-10T16:20:31-04:00</updated>
+        <updated>2021-07-10T13:20:31-07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://bakery.ar/media/posts/17/IMG_3207.jpeg" alt="" />
@@ -284,9 +339,9 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://bakery.ar/media/posts/17/IMG_3207.jpeg" alt="" />
+                    <p><img src="https://bakery.ar/media/posts/17/IMG_3207.jpeg" class="type:primaryImage" alt="" /></p>
                 <p>I had never had madeleines before trying this recipe (which I had to make for my Cookies class), and I must say they were a huge hit. Turns out the hump they get when baking is a good thing, even though it looks like something went wrong.</p>
-<figure class="post__image" ><img loading="lazy" src="https://bakery.ar/media/posts/17/IMG_3204.jpeg" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://bakery.ar/media/posts/17/responsive/IMG_3204-xs.jpeg 300w ,https://bakery.ar/media/posts/17/responsive/IMG_3204-sm.jpeg 480w ,https://bakery.ar/media/posts/17/responsive/IMG_3204-md.jpeg 768w"  alt="" width="4032" height="3024">
+<figure class="post__image" ><img loading="lazy" src="https://bakery.ar/media/posts/17/IMG_3204.jpeg" alt="" width="4032" height="3024" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://bakery.ar/media/posts/17/responsive/IMG_3204-xs.jpeg 300w ,https://bakery.ar/media/posts/17/responsive/IMG_3204-sm.jpeg 480w ,https://bakery.ar/media/posts/17/responsive/IMG_3204-md.jpeg 768w">
 <figcaption >Right out of the oven... with the hump!</figcaption>
 </figure>
 <p>There's a few gotchas with these cake-like cookies, though:</p>
@@ -330,11 +385,12 @@
         </author>
         <link href="https://bakery.ar/strawberry-and-cream-tart/"/>
         <id>https://bakery.ar/strawberry-and-cream-tart/</id>
+        <media:content url="https://bakery.ar/media/posts/16/strawberry-cream-tart.jpeg" medium="image" />
             <category term="whipped cream"/>
             <category term="tarts"/>
             <category term="strawberry"/>
 
-        <updated>2021-07-09T20:52:30-04:00</updated>
+        <updated>2021-07-09T17:52:30-07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://bakery.ar/media/posts/16/strawberry-cream-tart.jpeg" alt="" />
@@ -343,7 +399,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://bakery.ar/media/posts/16/strawberry-cream-tart.jpeg" alt="" />
+                    <p><img src="https://bakery.ar/media/posts/16/strawberry-cream-tart.jpeg" class="type:primaryImage" alt="" /></p>
                 <p>First off… yes, I know this should be called a “flan” and not a “tart” (the difference is on the size, flan is big, tart is small), but I flat out refuse to call this a flan. To me, a flan is a custard and nothing will change my mind. So I’m calling this a tart while it technically isn’t. But who cares about technicalities.</p>
 <p>I’ve tried many different recipies for strawberry tart over the years. My go-to was a recipe for strawberry mini tarts that were cute but were only good right after making. The whipped cream always turned gooey after the first day.</p>
 <p>There is a bakery in Buenos Aires, a couple of blocks away from my in-law’s home that makes this beautiful and delicious strawberry tart that we used to get for every celebratory occasion. The crust is thick and crumbly, it has a generous layer of whipped cream inside and a lot of strawberries, glazed with a strawberry-flavoured jelly, and it’s topped with the most beautifully silky whipped cream swirls. It’s just perfect.</p>
@@ -403,10 +459,11 @@
         </author>
         <link href="https://bakery.ar/cinnamon-rolls/"/>
         <id>https://bakery.ar/cinnamon-rolls/</id>
+        <media:content url="https://bakery.ar/media/posts/12/cinnamon-rolls.jpeg" medium="image" />
             <category term="cinnamon"/>
             <category term="bread"/>
 
-        <updated>2021-07-09T18:59:47-04:00</updated>
+        <updated>2021-07-09T15:59:47-07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://bakery.ar/media/posts/12/cinnamon-rolls.jpeg" alt="" />
@@ -415,7 +472,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://bakery.ar/media/posts/12/cinnamon-rolls.jpeg" alt="" />
+                    <p><img src="https://bakery.ar/media/posts/12/cinnamon-rolls.jpeg" class="type:primaryImage" alt="" /></p>
                 <p>I’d had this very intense cinnamon roll craving for a while until I decided to act on it while watching Hamilton one summer weekend. It was quite late in the afternoon and from what I knew, cinnamon rolls take a couple of hours to make. Because I was lazy <em>and</em> hungry, I searched for the quickest cinnamon roll recipe.</p>
 <p>I came across <a href="https://therecipecritic.com/quick-45-minute-cinnamon-rolls/">this beautiful recipe</a> by The Recipe Critic, and it turned out to be amazing! I only modified it slightly to make it more to my tasting.</p>
 <p>I made a big batch and had to freeze the rest in order to force myself not to eat them all in one sitting. They were that good.</p>
@@ -477,10 +534,11 @@
         </author>
         <link href="https://bakery.ar/medialunas/"/>
         <id>https://bakery.ar/medialunas/</id>
+        <media:content url="https://bakery.ar/media/posts/11/medialunas.jpeg" medium="image" />
             <category term="confections"/>
             <category term="bread"/>
 
-        <updated>2021-07-09T19:00:13-04:00</updated>
+        <updated>2021-07-09T16:00:13-07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://bakery.ar/media/posts/11/medialunas.jpeg" alt="" />
@@ -489,7 +547,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://bakery.ar/media/posts/11/medialunas.jpeg" alt="" />
+                    <p><img src="https://bakery.ar/media/posts/11/medialunas.jpeg" class="type:primaryImage" alt="" /></p>
                 <p>If you go to any bakery in Argentina (in Buenos Aires you’ll see one every two blocks), you’ll find lots of <em>medialunas</em>. They’re very similar to <em>croissants</em> in shape but the texture is slightly different. </p>
 <p>There are many types of medialunas: butter-style, lard-style, filled with dulce de leche, filled with ham and cheese. They’re a very versatile type of pastry so they pair well with pretty much everything.</p>
 <p>I also find the name <em>medialuna</em> magical. It means half-moon, and it obviously refers to its shape.</p>
@@ -540,10 +598,11 @@
         </author>
         <link href="https://bakery.ar/angel-food-cake/"/>
         <id>https://bakery.ar/angel-food-cake/</id>
+        <media:content url="https://bakery.ar/media/posts/10/angel-food-cake.jpeg" medium="image" />
             <category term="meringue"/>
             <category term="cakes"/>
 
-        <updated>2021-07-09T19:00:32-04:00</updated>
+        <updated>2021-07-09T16:00:32-07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://bakery.ar/media/posts/10/angel-food-cake.jpeg" alt="" />
@@ -552,7 +611,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://bakery.ar/media/posts/10/angel-food-cake.jpeg" alt="" />
+                    <p><img src="https://bakery.ar/media/posts/10/angel-food-cake.jpeg" class="type:primaryImage" alt="" /></p>
                 <p>The first time I had Angel food cake was in the summer of 2019, after my husband Seb found a Betty Crocker Angel food cake box “very appealing” in the supermarket. It certainly looked very interesting: white and airy. I was super curious to find out what it tasted like. We had never heard of this type of cake back in Argentina.</p>
 <p>It was only when we got home that I learned that I needed a special tin for this cake. Luckily, I had a non-stick bundt cake pan, and after some Googling, I confirmed it could replace the original Angel food cake pan just fine.</p>
 <p>I made the cake following the box instructions (including trying to figure out how to rest the cake upside down… 🤔). Tasting time comes… I loved the cake. Seb… not so much. He didn’t appreciate the almond flavoring.</p>
@@ -579,82 +638,6 @@
 <li>Remove the cake from the oven and invert immediately. </li>
 <li>Let it cool for at least 45 minutes before removing the cake from the pan. To remove, run a spatula (or something soft as to not ruin the non-stick surface of the pan) along the outer edge of the pan.</li>
 <li>Serve with berries!</li>
-</ol>
-
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Lemon meringue pie</title>
-        <author>
-            <name>Ami Reynoso</name>
-        </author>
-        <link href="https://bakery.ar/lemon-meringue-pie/"/>
-        <id>https://bakery.ar/lemon-meringue-pie/</id>
-            <category term="pies"/>
-            <category term="meringue"/>
-            <category term="lemon"/>
-
-        <updated>2021-07-09T19:01:16-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://bakery.ar/media/posts/9/lemon-meringue-pie.jpeg" alt="" />
-                    My mom used to make lemon meringue pie (or simply Lemon Pie, as we call it back home) all the&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://bakery.ar/media/posts/9/lemon-meringue-pie.jpeg" alt="" />
-                <p>My mom used to make lemon meringue pie (or simply <em>Lemon Pie</em>, as we call it back home) all the time. My sister Mailen absolutely loves this pie, so it would always be her treat. I confess I wasn’t a fan of this dessert, I used to think it was too sour for my taste.</p>
-<p>As I got older, I started to appreciate this delicacy more and more. Nowadays, I could kill for a slice of lemon meringue pie.</p>
-<p>I tried many, many recipes and not all attempts were successful. I tried different ways to make the filling, and in one of these attempts I came across condensed milk, and oh my. How have I lived so long without trying condensed milk?</p>
-<p>But my biggest problem always was the meringue. I tried French meringue first, because that’s how my mom does it, but it always ended up too fluffy for me and it lost its consistency if you didn’t eat it right away. I then moved on to Italian meringue and let me tell you: I hate this technique. I always messed it up – I either burnt the caramel (or it didn’t turn out syrup-y), or I burnt the egg whites. When it did come out right, the meringue over the pie would start to sweat after a day in the fridge. Not good.</p>
-<p>That is, until I tried making a Swiss meringue. The technique detailed here is not the textbook recipe, but it’s much simpler and most importantly, it works! The only gotcha is that it doesn’t last soft and creamy for too long, so the pie needs to be consumed in the first 1-3 days. Like that’s a problem…</p>
-<p><a href="https://www.youtube.com/watch?v=3a8_KIECzBI">This recipe</a> comes from a TV show from Argentina, called <em>Cocineros Argentinos</em>. I watched it on YouTube. It’s long but really good. I couldn’t find the textual recipe in their website, though.</p>
-<h3 id="ingredients">Ingredients</h3>
-<h4 id="pie-dough">Pie dough</h4>
-<ul>
-<li>100g powdered sugar</li>
-<li>200g room-temperature butter</li>
-<li>300g all-purpose flour</li>
-<li>1 egg</li>
-<li>pinch of salt</li>
-<li>1/2 lemon zest</li>
-</ul>
-<h4 id="filling">Filling</h4>
-<ul>
-<li>500ml milk</li>
-<li>200g sugar</li>
-<li>60g cornstarch</li>
-<li>4 egg yolks</li>
-<li>200ml lemon juice</li>
-<li>1/2 lemon zest</li>
-</ul>
-<h4 id="meringue">Meringue</h4>
-<ul>
-<li>4 egg whites</li>
-<li>240g sugar</li>
-</ul>
-<h3 id="directions">Directions</h3>
-<ol>
-<li>Mix the butter with a spatula until soft. Add the powdered sugar slowly. Once incorporated, start mixing with an electric mixer.</li>
-<li>When the consistency becomes creamy and the colour lightens, add the egg and keep mixing.</li>
-<li>Add the flour and salt, and mix with a spatula until a firm dough forms. Do not overmix.</li>
-<li>Form a circle with the dough and cover with plastic wrap. Take to the fridge to rest for at least 30 minutes.</li>
-<li>Once chilled, roll the dough in a floured surface until circle covers pie dish, or an approximate height of 1 cm.</li>
-<li>Cover the pie dish and press against the side. Cut the excess dough. Tap base with a fork.</li>
-<li>Cover the dish and dough with aluminium foil and press. Add baking weights.</li>
-<li>Take to a pre-heated 350°F oven for about 15 minutes. After that time, remove the weights and foil, and cook for 5 more minutes.</li>
-<li>While the dough bakes, start the filling. In a bowl beat the egg yolks with the sugar and cornstarch. Add the lemon juice and the zest.</li>
-<li>Bring the milk to a boil in a saucepan. Remove from heat and add about 1/4 of the milk into the yolks and sugar mixture. Mix to bring the temperature down.</li>
-<li>Put the sauce pan back in the heat until it boils again. Once it does, slowly add the other mixture into the saucepan, mixing constantly. Keep beating until consistency thickens. Once it starts to boil, keep mixing for 1 more minute and then remove from the heat.</li>
-<li>Transfer the filling into a bowl and cover with plastic wrap. Ensure the wrap touches the filling to avoid it from developing a hard film on the top. Chill it in the fridge.</li>
-<li>Once chilled, fill the cooked pie dough and leave it to rest.</li>
-<li>To make the meringue, add the egg whites and sugar into a microwave-safe bowl (or the bowl of a standing mixer is it’s glass). Mix to incorporate.</li>
-<li>Cook it on the microwave for 30 seconds. Take it out and mix it again with a whisk to prevent the egg whites from cooking. Do this process 5 times (1 time more than the amount of egg whites).</li>
-<li>Once the last round is done, transfer to the bowl of a standing mixer (if you didn’t do it in there) and beat on medium-high speed until stiff peaks form, about 8 minutes.</li>
-<li>Decorate the pie with the meringue. You can use a piping bag or just put a layer of meringue on top.</li>
-<li>Turn the oven on, using the lowest broil setting. Place the pie in the oven and keep an eye on it. Broil only until the top darkens, about 1-2 minutes.</li>
 </ol>
 
             ]]>
