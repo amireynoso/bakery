@@ -3,7 +3,7 @@
     <title>Bakery</title>
     <link href="https://bakery.ar/feed.xml" rel="self" />
     <link href="https://bakery.ar" />
-    <updated>2023-06-20T21:04:59-07:00</updated>
+    <updated>2023-06-20T21:06:27-07:00</updated>
     <author>
         <name>Ami Reynoso</name>
     </author>
@@ -265,7 +265,7 @@
             <category term="muffins"/>
             <category term="blueberry"/>
 
-        <updated>2021-09-05T17:29:27-07:00</updated>
+        <updated>2023-06-20T21:06:27-07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://bakery.ar/media/posts/18/IMG_4201.jpeg" alt="Blueberry muffins" />
@@ -314,7 +314,7 @@
 <li>Bake for about 30 minutes, until light golden brown on top and a cake tester comes out clean on the center of a muffin</li>
 <li>Remove from the oven and transfer to a cooling rack after 5 minutes</li>
 </ol>
-<p class="msg msg--highlight ">They can be frozen, bake them at a 350°F oven for 5 minutes before serving</p>
+<p class="msg msg--highlight ">They can be frozen, reheat them in a 350°F oven for 5 minutes before serving</p>
             ]]>
         </content>
     </entry>
